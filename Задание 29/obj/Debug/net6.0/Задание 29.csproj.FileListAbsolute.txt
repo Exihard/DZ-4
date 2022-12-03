@@ -1,0 +1,15 @@
+C:\Users\rkore\Desktop\DZ-4\Задание 29\bin\Debug\net6.0\Задание 29.exe
+C:\Users\rkore\Desktop\DZ-4\Задание 29\bin\Debug\net6.0\Задание 29.deps.json
+C:\Users\rkore\Desktop\DZ-4\Задание 29\bin\Debug\net6.0\Задание 29.runtimeconfig.json
+C:\Users\rkore\Desktop\DZ-4\Задание 29\bin\Debug\net6.0\Задание 29.dll
+C:\Users\rkore\Desktop\DZ-4\Задание 29\bin\Debug\net6.0\Задание 29.pdb
+C:\Users\rkore\Desktop\DZ-4\Задание 29\obj\Debug\net6.0\Задание 29.csproj.AssemblyReference.cache
+C:\Users\rkore\Desktop\DZ-4\Задание 29\obj\Debug\net6.0\Задание 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkore\Desktop\DZ-4\Задание 29\obj\Debug\net6.0\Задание 29.AssemblyInfoInputs.cache
+C:\Users\rkore\Desktop\DZ-4\Задание 29\obj\Debug\net6.0\Задание 29.AssemblyInfo.cs
+C:\Users\rkore\Desktop\DZ-4\Задание 29\obj\Debug\net6.0\Задание 29.csproj.CoreCompileInputs.cache
+C:\Users\rkore\Desktop\DZ-4\Задание 29\obj\Debug\net6.0\Задание 29.dll
+C:\Users\rkore\Desktop\DZ-4\Задание 29\obj\Debug\net6.0\refint\Задание 29.dll
+C:\Users\rkore\Desktop\DZ-4\Задание 29\obj\Debug\net6.0\Задание 29.pdb
+C:\Users\rkore\Desktop\DZ-4\Задание 29\obj\Debug\net6.0\Задание 29.genruntimeconfig.cache
+C:\Users\rkore\Desktop\DZ-4\Задание 29\obj\Debug\net6.0\ref\Задание 29.dll
